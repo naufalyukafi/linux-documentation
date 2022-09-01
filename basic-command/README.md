@@ -27,3 +27,7 @@ Create a new folder
 ### `rm folder-name`
 
 Delete a folder, to delete many child folder we can add `-r` or recursive
+
+### `mv folder-name rename`
+
+rename a folder
